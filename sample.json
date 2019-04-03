@@ -1,0 +1,65 @@
+[
+	{
+		"id": 1,
+		"name": "model 1",
+		"countries": [
+			{
+				"id": 1,
+				"name": "country 1",
+				"url": "url 1"
+			},
+			{
+				"id": 2,
+				"name": "country 2",
+				"url": "url 2"
+			},
+			{
+				"id": 3,
+				"name": "country 3",
+				"url": "url 3"
+			}
+		]
+	},
+	{
+		"id": 2,
+		"name": "model 2",
+		"countries": [
+			{
+				"id": 4,
+				"name": "country 4",
+				"url": "url 4"
+			},
+			{
+				"id": 5,
+				"name": "country 5",
+				"url": "url 5"
+			},
+			{
+				"id": 6,
+				"name": "country 6",
+				"url": "url 6"
+			}
+		]
+	},
+	{
+		"id": 3,
+		"name": "model 3",
+		"countries": [
+			{
+				"id": 7,
+				"name": "country 7",
+				"url": "url 7"
+			},
+			{
+				"id": 8,
+				"name": "country 8",
+				"url": "url 8"
+			},
+			{
+				"id": 9,
+				"name": "country 9",
+				"url": "url 9"
+			}
+		]
+	}
+]
